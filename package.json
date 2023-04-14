@@ -16,7 +16,8 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
     "build-library": "rollup -c",
-    "build-watch-library": "rollup -c -w"
+    "build-watch-library": "rollup -c -w",
+    "chromatic": "npx chromatic --project-token=bfca7f1291ff"
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",
@@ -59,5 +60,7 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "@norbertbaran/react-components@0.0.0-dev0"
 }

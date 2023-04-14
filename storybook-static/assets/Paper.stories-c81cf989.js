@@ -1,0 +1,6 @@
+import{P as a}from"./Paper-98fbb779.js";import"./createTheme-82787413.js";import"./index-f1f749bf.js";import"./_commonjsHelpers-042e6b4d.js";import"./extends-98964cd2.js";import"./Box-7aad419a.js";import"./clsx.m-4c67092e.js";import"./emotion-use-insertion-effect-with-fallbacks.browser.esm-eaaa54fe.js";const l={title:"Paper",component:a,tags:["autodocs"],argTypes:{}},e={args:{children:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."}};var o,i,t;e.parameters={...e.parameters,docs:{...(o=e.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {
+    children: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+  }
+}`,...(t=(i=e.parameters)==null?void 0:i.docs)==null?void 0:t.source}}};const g=["Default"];export{e as Default,g as __namedExportsOrder,l as default};
+//# sourceMappingURL=Paper.stories-c81cf989.js.map

@@ -1,0 +1,2 @@
+import{h as e}from"./createTheme-82787413.js";const a={50:"#e8eaf6",100:"#c5cae9",200:"#9fa8da",300:"#7986cb",400:"#5c6bc0",500:"#3f51b5",600:"#3949ab",700:"#303f9f",800:"#283593",900:"#1a237e",A100:"#8c9eff",A200:"#536dfe",A400:"#3d5afe",A700:"#304ffe"},f=a,c=e({palette:{primary:f,secondary:{main:"#fff",contrastText:"#757575"}}});export{c as t};
+//# sourceMappingURL=constance-0ce55438.js.map

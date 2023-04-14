@@ -1,6 +1,8 @@
 {
   "name": "@norbertbaran/react-components",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "typings": "dist/index.d.ts",
   "private": false,
   "version": "0.0.0-dev0",
@@ -37,6 +39,7 @@
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react-swc": "^3.0.0",
+    "chromatic": "^6.17.3",
     "rollup": "^3.20.2",
     "rollup-plugin-delete": "^2.0.0",
     "rollup-plugin-typescript2": "^0.34.1",

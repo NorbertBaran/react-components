@@ -1,6 +1,6 @@
 import type { Preview } from "@storybook/react";
 import {ThemeProvider} from "@mui/material";
-import {theme} from "../src/components/constance";
+import {theme} from "./constance";
 
 const preview: Preview = {
   parameters: {

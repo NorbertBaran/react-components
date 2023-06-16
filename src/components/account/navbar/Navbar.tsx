@@ -1,9 +1,5 @@
 import {AppBar, Box, Container, Toolbar, useScrollTrigger,} from "@mui/material";
 import {cloneElement, FC, ReactElement} from "react";
-import '@fontsource/roboto/300.css';
-import '@fontsource/roboto/400.css';
-import '@fontsource/roboto/500.css';
-import '@fontsource/roboto/700.css';
 import LinkMenu, {ILinkMenu} from "./LinkMenu";
 import Header, {IHeader} from "../Header";
 import AvatarMenu, {IAvatarMenu} from "./AvatarMenu";
